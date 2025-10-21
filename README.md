@@ -12,7 +12,7 @@ I am a software engineer with a strong background in innovative technology solut
 
 **Master of Economics, Management Information Systems**  
 University of Aleppo  
-*September 2025 (expected)*  
+*September 2025*  
 - Average Grade: 83.78%  
 - Expertise in economic analysis, business management, decision support systems, information systems design, database management, and system analysis (UML, ERD, project planning).  
 - Practical experience in web application development and data analytics.
